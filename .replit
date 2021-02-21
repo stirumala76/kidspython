@@ -1,3 +1,3 @@
-run="python test.py"
+run="python sessions/classes/day1.py"
 language="python3"
 onBoot="echo Booting up!"
